@@ -1,0 +1,162 @@
+figcaption{
+    max-width: 300px;
+    padding-top: 10px;
+    word-wrap: break-word;
+    text-align: center;
+    color: aliceblue;
+    font-size: 24px;
+    font-family: 'Segoe UI';
+    font-weight: bold;
+    }
+    
+    figure{
+        display: inline-block;
+        padding: 10px;
+        
+    }
+
+
+    body{
+
+        background-color: rgb(1, 0, 17);
+        text-align: center;
+        color: white;
+        font-family: 'Segoe UI';
+    }
+
+    header
+{
+
+    background-color: white;
+    background-size: 50px;
+    font-family: 'Segoe UI';
+    font-size: 35px;
+    margin: 0 auto;
+    text-align: center;
+    
+}
+
+div.header{
+    
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    background-color: rgb(2, 54, 150);
+    background-size: 20px;
+    background-repeat: no-repeat;
+    font-family: sans-serif;
+    font-size: 35px;
+    margin: 0 auto;
+    text-align: center;
+    
+}
+
+img.logo
+{
+    margin: 0 auto;
+    text-align: center;
+}
+
+a
+{
+    text-decoration: none;
+    color: #FFE3E8;
+}
+
+img.portafolio-habilidades{
+    border-radius: 20px;
+}
+
+footer{
+    background-color: white;
+    font-family: 'Segoe UI';
+    font-size: 35px;
+    margin: 0 auto;
+    text-align: center;
+    color: black;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.header-item {
+    padding: 60px;
+}
+
+.grid-container {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+    gap: 10px; 
+    padding: 10px;
+}
+
+.grid-item {
+    overflow: hidden;
+    background-color: #f0f0f0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+footer a {
+    margin: 0 10px; 
+}
+footer div{
+    padding-left: 50px;
+    padding-right: 50px;    
+    text-align: center;
+}
+
+h2.Portafolio-Habilidades{
+    text-align: center;
+    font-size: 40px;
+    font-family: 'Segoe UI';
+    background-color:rgb(1, 0, 17); 
+}
+
+
+figure.dibujo-digital{
+
+    border: solid rgb(166, 221, 253);
+}
+
+figcaption.pagina-Diosa
+{
+    max-width: 600px;
+    text-align: center;
+    margin: 0 auto;
+}
+
+section.dibujo{
+    background-color: rgba(11, 3, 119, 0.301);
+}
+
+p{
+    text-align: justify;
+    font-family: 'Segoe UI';
+    font-weight: bold;
+    margin-left: 250px;
+    margin-right: 250px;
+}
+
+img.gif{
+    border-radius: 100%;
+    width: 200px;
+    height: 200px;
+}
+
+h3.aboutme{
+    text-align: center;
+    font-size: 25px;
+    font-family: 'Segoe UI';
+    background-color: rgba(193, 190, 243, 0.301);
+}
+
+div.Aboutme{
+    background-color: rgba(11, 3, 119, 0.884);;
+}
+
+
+
+
+
